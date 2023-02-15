@@ -1,6 +1,6 @@
 package Matricula;
 
-import java.util.*
+import java.util.*;
 
 public class Estudiante extends Persona {
     private int numExpediente;
